@@ -6,6 +6,7 @@ The CustomerProfiler project seeks to bridge the gap between accessability, data
   2) Challenge in migration include standardizing ECOM data, normalizing the datasets
   3) Requirement includes restructuring sales tables and redesinging its structure
   4) Stakeholders want real-time access to customer data for day-to-day marketing budgeting decisions
+![Ecom Data](https://github.com/teekag/CustomerProfiler_AI_Version4/assets/137746377/0e88e4f9-8a32-4586-939d-e98da31b9c99)
 
 ## Addressable Challgenges: 
   1) Enable extraction of meaningful insights for further analysis 
