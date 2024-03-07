@@ -9,7 +9,7 @@ Use Case:
 
 Key Data-Standardization Issues: 
   1) Enable extraction of meaningful insights for further analysis 
-  2) Unify time-series data, normalize customer bases by demographics, make data interoperable with Snowflake and Databricks
+  2) Unify e-commerce data, normalize customer generated data, perform standardizing procedures to ensure interoperable base management (e.g. Snowflake and Databricks )
   3) Transition data into reliable single-silo table
 
 
